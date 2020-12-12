@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2020.2.6)  9 DEC 2020 16:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2020.2.6)  12 DEC 2020 19:54
 entering extended mode
 **./Pset4_Angara_Magagnin.tex
 (Pset4_Angara_Magagnin.tex
@@ -350,27 +350,23 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 {/Users/noahangara/Library/Application Support/MiKTeX/texmfs/data/pdftex/config
 /pdftex.map}] (Pset4_Angara_Magagnin.aux) ) 
 Here is how much of TeX's memory you used:
- 3061 strings out of 481534
- 43132 string characters out of 2903533
+ 3041 strings out of 481534
+ 42816 string characters out of 2903533
  281365 words of memory out of 3000000
- 18291 multiletter control sequences out of 15000+200000
- 541942 words of font info for 61 fonts, out of 3000000 for 9000
+ 18277 multiletter control sequences out of 15000+200000
+ 538504 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,8n,34p,294b,199s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,6n,34p,219b,199s stack positions out of 5000i,500n,10000p,200000b,50000s
 </Users/noahangara/Library/Applicati
 on Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Us
 ers/noahangara/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/pu
 blic/amsfonts/cm/cmbx12.pfb></Users/noahangara/Library/Application Support/MiKT
 eX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/noahangara/L
 ibrary/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm
-/cmr12.pfb></Users/noahangara/Library/Application Support/MiKTeX/texmfs/install
-/fonts/type1/public/amsfonts/cm/cmr6.pfb></Users/noahangara/Library/Application
- Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></Users/
-noahangara/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public
-/amsfonts/cm/cmr9.pfb>
-Output written on Pset4_Angara_Magagnin.pdf (1 page, 86792 bytes).
+/cmr12.pfb>
+Output written on Pset4_Angara_Magagnin.pdf (1 page, 57767 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
+ 22 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
