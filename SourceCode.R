@@ -25,15 +25,15 @@ library(rpart.plot)
 load("drugs.RData")
 
 ## 1) Share of Males who consume soft drugs
-nrow(drugs[drugs$Gender == "male"& drugs$Soft_Drug == "TRUE",])/nrow(drugs[drugs$Gender == "male",])
+nrow(drugs[drugs$Gender == "male"& drugs$Soft_Drug == "TRUE",])/nrow(drugs)
 
 ## 2) Difference between male and female hard drug consumption
-male_hard <- nrow(drugs[drugs$Gender == "male"& drugs$Hard_Drug == "TRUE",])/nrow(drugs[drugs$Gender == "male",])
-female_hard <- nrow(drugs[drugs$Gender == "female"& drugs$Hard_Drug == "TRUE",])/nrow(drugs[drugs$Gender == "female",])
+male_hard <- nrow(drugs[drugs$Gender == "male"& drugs$Hard_Drug == "TRUE",])/nrow(drugs)
+female_hard <- nrow(drugs[drugs$Gender == "female"& drugs$Hard_Drug == "TRUE",])/nrow(drugs)
 male_hard - female_hard
 
 ## 3) Share of soft drug consumption by age group
-sixt_sevent <- nrow(drugs[drugs$Age == "16-17 years" & drugs$Soft_Drug == "TRUE",])/nrow(drugs[drugs$Age == "16-17 years",])
-eight_nine <- nrow(drugs[drugs$Age == "18-19 years"& drugs$Soft_Drug == "TRUE",])/nrow(drugs[drugs$Age == "18-19 years",])
-twent_twent4 <- nrow(drugs[drugs$Age == "20-24 years"& drugs$Soft_Drug == "TRUE",])/nrow(drugs[drugs$Age == "20-24 years",])
+sixt_sevent <- nrow(drugs[drugs$Age == "16-17 years" & drugs$Soft_Drug == "TRUE",])/nrow(drugs)
+eight_nine <- nrow(drugs[drugs$Age == "18-19 years"& drugs$Soft_Drug == "TRUE",])/nrow(drugs)
+twent_twent4 <- nrow(drugs[drugs$Age == "20-24 years"& drugs$Soft_Drug == "TRUE",])/nrow(drugs)
 
